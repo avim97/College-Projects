@@ -1,6 +1,5 @@
 /*
   Full name: Avi Maya
-  ID: 208992784
   Project description: this program is the snake game.
   the user chooses between 3 levels: basic, intermediate and advanced.
   using the arrows on the keyboard, the user moves the snake in order for it to catch the food (the symbol '$').
