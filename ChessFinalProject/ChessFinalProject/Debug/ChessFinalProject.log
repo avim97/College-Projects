@@ -1,0 +1,12 @@
+﻿  GeneralFunctions.c
+  Q1.c
+  Q2.c
+  Q3.c
+  Q4.c
+  Q5.c
+C:\Users\user\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\ChessFinalProject\ChessFinalProject\Q5.c(8,50): warning C4101: 'reminder1Mask': unreferenced local variable
+  Q6.c
+  Q7.c
+  main.c
+  Generating Code...
+  ChessFinalProject.vcxproj -> C:\Users\user\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\ChessFinalProject\Debug\ChessFinalProject.exe
